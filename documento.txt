@@ -1,1 +1,3 @@
 Existe un documento
+1.- Generar un archivo de texto plano
+2.- Visualizar los clientes en un tabla
